@@ -1,0 +1,22 @@
+<div class="paysqr payeffect" >
+
+
+
+
+        <p class="paytitlesqr" > Payment Platform<br/></p>
+
+    <img class="payphoto" src="http://static1.squarespace.com/static/5587e06fe4b0ceb955a39bc9/t/559da870e4b02a96af792dd8/1436395632343/Top+Box+1.png" alt="Payment Square"/>
+
+
+</div>
+
+
+
+<script>
+
+  $(".payphoto").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#ppbanner").offset().top
+    }, 1000);
+});
+</script>

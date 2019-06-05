@@ -1,0 +1,9 @@
+<div id="downarrow" style="text-align: center; cursor:pointer"><i class="fa fa-angle-down fa-3x"></i></div>
+<script>
+$(function() {
+    $("#downarrow").on("click", function() {
+        $("body").animate({"scrollTop": window.scrollY+600}, 500);
+        return false;
+    });
+})
+</script>

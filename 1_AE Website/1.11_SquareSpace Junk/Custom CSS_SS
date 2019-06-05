@@ -1,0 +1,394 @@
+.collection-type-index .content-inner.has-content {
+  padding: 0px !important;
+}
+
+@media (min-width: 0px) {.parallax-item[data-url-id="about-us"] div.title-desc-inner h1, { display: none;
+}}
+
+.parallax-item[data-url-id="advancing-asean-ecommerce"] div.title-desc-inner h1, { display: none;
+}
+
+
+
+
+
+
+.parallax-item[data-url-id="mission-vission"] div.title-desc-inner h1, {
+
+
+}
+
+@media all and (min-width: 1px) {.collection-558ffaade4b01c6273ec28c5 .title-desc-wrapper .title-desc-inner   {
+  display: none;
+}}
+
+@media all and (min-width: 0px) { .collection-558ffaade4b01c6273ec28c5 .title-desc-wrapper.has-main-image {
+  display:none;
+}}
+
+.collection-558ffaade4b01c6273ec28c5 .main-nav ul li { a{ color: #000 !important ;  }}
+
+
+.collection-558ffaade4b01c6273ec28c5 .title-nav-wrapper {  background-color: #fff; }
+
+@media all and (min-width: 0px) { .collection-558ffaade4b01c6273ec28c5 #mobileMenu { visibility: visible; color: #000; }}
+
+
+
+.collection-55949a59e4b0556873d9e19b #header {  background-color: #e74c3c !important   }
+
+.parallax-item[data-url-id='the-solutions'] .content,
+.parallax-item[data-url-id='the-solutions'] .content-inner {
+  background-color: #fff !important;
+}
+
+
+
+#block-yui_3_17_2_3_1436394940296_50652 , { background-color: #e74c3c !important }
+
+.collection-55949a59e4b0556873d9e19b .main-nav ul li { a{ color: #fff !important ;  }}
+
+@media all and (min-width: 0px) {
+
+  .collection-55949a59e4b0556873d9e19b #mobileMenu { visibility: visible; color: #000 !important; }
+
+.collection-55949a59e4b0556873d9e19b #mobileMenu a:hover { color: #000 !important; }
+
+}
+
+.parallax-item[data-url-id="the-solutions"] .title-desc-wrapper {
+
+  display: none;
+}
+
+.parallax-item[data-url-id="payment-platform"] .title-desc-wrapper
+    {
+   display: none;
+    }
+
+.parallax-item[data-url-id="online-marketplaces"] .title-desc-wrapper
+    {
+   display: none;
+    }
+
+.parallax-item[data-url-id="logistics"] .title-desc-wrapper
+    {
+   display: none;
+    }
+
+
+.parallax-item[data-url-id="values"] .title-desc-wrapper
+    {
+
+
+    }
+
+.valueslist { width:600px;
+    margin: auto; }
+
+
+
+
+.collection-5597e9e0e4b02af487896d48 .title-desc-wrapper .title-desc-inner   {
+  display: none;
+}
+
+.collection-5597e9e0e4b02af487896d48 .main-nav ul li { a{ color: #000 !important ;  }}
+
+
+
+
+
+
+.sqs-gallery-block-slideshow .sqs-gallery,
+.sqs-gallery-block-slideshow .sqs-gallery .slide img {
+  max-height: px !important;
+}
+
+
+
+.collection-5588bdb4e4b076b6081e54bb #content-wrapper .content .content-inner {
+  background-color: #fff !important;
+}
+
+
+
+
+
+@media all and (min-width: 500px) { #item-55896ed8e4b0d4f1a8c9bde4 .site-wrapper {
+  background-color: #fff;
+}}
+
+@media all and (min-width: 500px) { #item-55896ed8e4b0d4f1a8c9bde4 .title-desc-wrapper .title-desc-inner   {
+  display: none;
+}}
+
+@media all and (min-width: 500px) { #item-55896ed8e4b0d4f1a8c9bde4 .main-nav ul li { a{ color: #000 !important ;  }}}
+
+@media all and (min-width: 500px) { #item-55896ed8e4b0d4f1a8c9bde4 #mobileMenu { visibility: visible; color: #000; }}
+
+
+#item-55896ed8e4b0d4f1a8c9bde4 #header-wrapper {   background-color : #fff; }
+
+
+@media all and (min-width: 500px) { #item-55b847c7e4b063c7dedd3532 .site-wrapper {
+  background-color: #fff;
+}}
+
+
+@media all and (min-width: 10px) { #item-55b847c7e4b063c7dedd3532 .title-desc-wrapper .title-desc-inner {
+  display: none;
+} }
+
+@media all and (min-width: 500px) { #item-55b847c7e4b063c7dedd3532 .main-nav ul li { a{ color: #000 !important ;  }}}
+
+@media all and (min-width: 300px) { #item-55b847c7e4b063c7dedd3532  #mobileMenu  {  color: #000 !important; }}
+
+@media all and (min-width: 350px) { #item-55b847c7e4b063c7dedd3532 #block-yui_3_17_2_1_1438146301604_58495 {
+
+ max-height: 10% !important;
+}}
+
+
+
+#mobileNav a { color: #000 !important; }
+
+#mobileNav a:active { color: #16a085
+ !important; }
+
+#mobileNav  a:visited { color: #16a085
+ !important; }
+
+
+
+#mobileMenu {
+cursor: pointer;
+     }
+
+#mobileMenu { visibility: visible; color: #fff !important; }
+
+
+
+
+
+
+
+
+
+.collection-558b7bfee4b0bed35922089d .header-wrapper { background-color: #000; }
+
+
+
+.collection-5588d623e4b0751e884e2c23 .site-wrapper {
+  background-color: #fff !important;
+}
+
+
+
+
+
+@media (min-width: 0px) { .collection-558b7bfee4b0bed35922089d #header-wrapper .title-desc-wrapper   , .collection-558b7bfee4b0bed35922089d .site-wrapper{  background-color: #e74c3c !important   }}
+
+.collection-558b7bfee4b0bed35922089d .page-title {  background-color: #e74c3c !important   }
+
+
+
+
+@media (min-width: 1000px) {  #item-55896ed8e4b0d4f1a8c9bde4 .site-wrapper {
+  background-color: #fff !important;
+}  }
+
+
+
+
+
+@media (min-width: 1000px) {.visionpoints , .whoarewe , .whatwedo , .whywedoit , .mission1 ,.mission2 , .vision1 , .vision2 {
+    width:800px;
+    margin:0 auto;
+}}
+
+
+
+.main-nav ul li a:hover span {color: #16a085 }
+.title-nav-wrapper {height: 50px;}
+.site-title img {max-height: 70px;}
+
+.main-nav ul li a span, .main-nav ul li a:visited span  { font-family: 'Lato', sans-serif !important ; font-weight: 100 !important; }
+
+
+
+.footerlinks {
+
+    font: Ultra-Light 100 1em/1.5em 'Lato' , sans-serif !important;
+}
+
+.homelink , .aboutuslink , .ourprojectslink , .joinuslink , .bloglink , { text-decoration : none !important; }
+
+
+.summary-title-link { text-decoration: none !important; }
+
+.sqs-block-summary-v2 .summary-metadata-item { color: white; }
+
+
+
+
+
+.exlink1 , .exlink2 , .exlink3 , .exlink4 , .exlink5 , .exlink6{ text-decoration : none !important; }
+
+a.exlink1:hover, a.exlink2:hover, a.exlink3:hover, a.exlink4:hover, a.exlink5:hover, a.exlink6:hover { color: #858686;}
+
+.exlist li{
+  list-style: none;
+  margin-left:  6px;
+  padding-left: px ;
+}
+.exlist li {
+  list-style-position: outside;
+  text-indent: -1em;
+}
+.exlist li:before {
+  content: ">";
+  padding-right: 3.5px;
+}
+
+
+
+
+
+@media (max-width: 500px)
+  {
+
+    .paysqr {
+    position:relative;
+    top: 80px;
+    bottom: 100px;
+    overflow: auto;
+    float:center;
+    margin:20px;
+    padding: 0px;
+    background-color:#fff
+   }
+
+
+    img.payphoto{  width:150px;
+    height:150px; }
+
+
+   .paysqr .paytitlesqr {
+    color:#e74c3c;
+    padding:0px;
+    left:0px;
+    top:0px;
+    position:relative;
+    font-family:Lato;
+    font-size:30px;
+    line-height:40px;
+    margin:0;
+    font-weight: 200;
+    text-align: left !important;
+}
+
+}
+
+
+
+
+@media (min-width: 550px ){
+.paysqr {
+    position:relative;
+    width:300px;
+    height:300px;
+    overflow:inherit;
+    float:middle;
+    margin:auto;
+    background-color:#fff
+}
+
+.paysqr .paytitlesqr {
+    color:#e74c3c;
+    padding:5px;
+    left:0px;
+    top:0px;
+    position:relative;
+    font-family:Lato;
+    font-size:30px;
+    line-height:18px;
+    margin:0;
+    font-weight: 200;
+    text-align: center;
+}
+.payeffect img {
+    position:absolute;
+
+    left:0;
+    bottom:0;
+    cursor:pointer;
+    margin: -0px 0;
+    -webkit-transition:bottom .3s ease-in-out;
+    -moz-transition:bottom .3s ease-in-out;
+    -o-transition:bottom .3s ease-in-out;
+    transition:bottom .3s ease-in-out
+}
+.payeffect img.payphoto:hover {
+    bottom:-50px;
+    padding-top:95px;
+}
+
+ .payeffect img.mbasket:hover {
+    bottom:-50px;
+    padding-top:95px;
+}
+
+
+
+}
+
+
+@media(min-width: 500px)
+{
+.background1
+{
+  margin: auto;
+}
+
+.solutionexpbox
+{
+
+  font-family: Lato !important;
+  font-weight: 200;
+  font-size: 18px;
+  color: #000;
+  text-align: left;
+  line-height: 25px;
+  padding: 50px;
+  width: 862.5px;
+
+}
+ div.paymentplatform{
+
+   width:962px;
+ }
+
+}
+
+@media(max-wdth: 500px)
+  {
+    .solutionexpbox
+{
+  font-family: Lato !important;
+  font-weight: 200;
+  font-size: 18px;
+  color: #000;
+  text-align: left;
+  line-height: 25px;
+  padding: 50px;
+}
+
+    div.paymentplatform img
+    {
+      height: 100000px  !important;
+    }
+    
+  }
+
+.collection-559adad8e4b0ee9660c55cd5 #header {  background-color: #e74c3c !important   }

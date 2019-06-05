@@ -1,0 +1,20 @@
+<div class="basketdiv">
+
+
+<div class="paysqr payeffect">
+
+
+        <p class="paytitlesqr" > Online Marketplaces<br/></p>
+
+    <img class="mbasket" src="http://static1.squarespace.com/static/5587e06fe4b0ceb955a39bc9/t/559da874e4b02a96af792def/1436395636837/Top+Box+2.png" alt="Shopping Basket"/>
+</div>
+</div>
+
+<script>
+
+  $(".basketdiv").click(function() {
+    $('html, body').animate({
+        scrollTop: $("#ompbanner").offset().top
+    }, 1000);
+});
+</script>

@@ -1,0 +1,101 @@
+<!--header-->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+
+<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+
+
+<a id="top"></a>
+
+<!--footer-->
+
+<script>
+
+ $(document).ready(function(){
+    $(" a:contains('hello@aseanecom.com') ").mouseover(function(){
+        $(" a:contains('hello@aseanecom.com') ").css("color", "#16a085");
+    });
+    $(" a:contains('hello@aseanecom.com') ").mouseout(function(){
+        $(" a:contains('hello@aseanecom.com') ").css("color", "white");
+    });
+});
+
+    $("a:contains('hello@aseanecom.com')").css("text-decoration", "none");
+    $("a:contains('TOP')").css({ "text-decoration":"none"});
+  	$("a:contains('WHAT WE DO')").css("text-decoration", "none");
+    $("a:contains('WHO ARE WE')").css("text-decoration", "none");
+    $("a:contains('WHY WE DO IT')").css("text-decoration", "none");
+    $("a:contains('RETURN')").css("text-decoration", "none");
+    $("a:contains('LEARN MORE')").css("text-decoration", "none");
+
+</script>
+
+<script>
+$('a[href=#top]').click(function(){
+		$('html, body').animate({scrollTop : 0},1000);
+
+	});
+</script>
+
+
+
+
+<script>
+ $(document).ready(function(){
+    $(" .homelink ").mouseover(function(){
+        $(" .homelink ").css("color", "#16a085");
+    });
+    $(" .homelink").mouseout(function(){
+        $(" .homelink ").css("color", "white");
+    });
+ });
+
+   $(document).ready(function(){
+    $(" .aboutuslink ").mouseover(function(){
+        $(" .aboutuslink ").css("color", "#16a085");
+    });
+    $(" .aboutuslink").mouseout(function(){
+        $(" .aboutuslink ").css("color", "white");
+    });
+ });
+
+
+   $(document).ready(function(){
+    $(" .ourprojectslink ").mouseover(function(){
+        $(" .ourprojectslink ").css("color", "#16a085");
+    });
+    $(" .ourprojectslink").mouseout(function(){
+        $(" .ourprojectslink ").css("color", "white");
+    });
+ });
+
+   $(document).ready(function(){
+    $(" .joinuslink ").mouseover(function(){
+        $(" .joinuslink ").css("color", "#16a085");
+    });
+    $(" .joinuslink").mouseout(function(){
+        $(" .joinuslink ").css("color", "white");
+    });
+ });
+
+   $(document).ready(function(){
+    $(" .bloglink ").mouseover(function(){
+        $(" .bloglink ").css("color", "#16a085");
+    });
+    $(" .bloglink").mouseout(function(){
+        $(" .bloglink ").css("color", "white");
+    });
+ });
+</script>
+
+
+
+<script>
+$(document).ready(function(){
+    $(" a:contains('RETURN') ").click(function(){
+        parent.history.back();
+        return false;
+    });
+});
+</script>
